@@ -1,0 +1,161 @@
+.card {
+    width: 100%;
+    overflow: hidden;
+    padding: 25px;
+  }
+  
+.card .nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  /* Image */
+.card .img {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 20px;
+    position: relative;
+  }
+
+  .card .img img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    animation: rotate 20s linear;
+    animation-iteration-count: infinite;
+    animation-play-state: paused;
+    user-select: none;
+  }
+
+  .card .img img.playing {
+    animation-play-state: running;
+  }
+
+  @keyframes rotate {
+    from { transform: rotate(0deg);}
+    to { transform: rotate(360deg);}
+  }
+
+  .card canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    left: 0;
+  }
+/*
+  .card .img img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+*/
+ /* Details */
+.card .details {
+    width: 100%;
+    text-align: center;
+  }
+
+.card .details .title {
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+  
+.card .details .artist {
+    color: #eceff1;
+  }
+
+ /* Progress */
+.card .progress {
+    margin-top: 15px;
+  }
+  
+.card .progress input {
+    width: 100%;
+    height: 4px;
+  }
+
+/* Timer */
+.card .timer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #fff;
+  }
+
+/* Controls */
+.card .controls {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+.card .controls #prev,
+.card .controls #next {
+    font-size: 2.5rem;
+  }
+
+.card .controls .play {
+    width: 3.2rem;
+    height: 3.2rem;
+    background: linear-gradient(#000 50%, #e0115f 100%);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+
+.card .controls .play::before {
+    content: '';
+    position: absolute;
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: inherit;
+    background: linear-gradient(#fff, #000 100%);
+  }
+
+.card .controls .play i {
+    background: #fff;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+  }
+
+.card .controls .volume {
+    width: 100%;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.2);
+    position: absolute;
+    bottom: -10%;
+    left: 0;
+    border-radius: 10px;
+    border: 1px solid #e0115f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    z-index: 5;
+    transition: bottom 0.2s linear;
+    gap: 5px;
+  }
+
+.card .controls .volume.show {
+    bottom: 0px;
+  }
+  
+.card .controls .volume input {
+    width: 100%;
+    height: 4px;
+  }
