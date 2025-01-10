@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/grungyplayer/static/css/main.6dc007f0.css",
-    "main.js": "/grungyplayer/static/js/main.c968caa0.js",
-    "static/media/Nirvana Come As You Are.mp3": "/grungyplayer/static/media/Nirvana Come As You Are.92ba7ffe2f858ab962ce.mp3",
-    "static/media/Alice In Chains Dirt.mp3": "/grungyplayer/static/media/Alice In Chains Dirt.5d339856057127b8f10c.mp3",
-    "static/media/Nirvana Aneurysm.mp3": "/grungyplayer/static/media/Nirvana Aneurysm.fb93a8d809ab67312649.mp3",
-    "static/media/Linkin Park My December.mp3": "/grungyplayer/static/media/Linkin Park My December.27bd603898ec2fc1cd8c.mp3",
-    "static/media/Alice In Chains Nutshell.mp3": "/grungyplayer/static/media/Alice In Chains Nutshell.3ced7955e53d09c0f9e6.mp3",
-    "static/media/Nirvana Serve The Servants.mp3": "/grungyplayer/static/media/Nirvana Serve The Servants.35e83fbc2cf4042b8e62.mp3",
-    "static/media/Alice In Chains Would.mp3": "/grungyplayer/static/media/Alice In Chains Would.77303b00a30ef4bf7f29.mp3",
-    "static/media/Nirvana Sappy.mp3": "/grungyplayer/static/media/Nirvana Sappy.ce70c90874ab28075c59.mp3",
-    "static/media/Linkin Park Pushing Me Away.mp3": "/grungyplayer/static/media/Linkin Park Pushing Me Away.f63c4a2756d52a930704.mp3",
-    "static/media/dirt.jpg": "/grungyplayer/static/media/dirt.daa93b9524812d77d66b.jpg",
-    "static/media/5r2b2x4efhr71.jpg": "/grungyplayer/static/media/5r2b2x4efhr71.4f7bfefe2086adf40a1c.jpg",
-    "static/media/1200x1200bb.jpg": "/grungyplayer/static/media/1200x1200bb.c3ca66b5aaf32584024e.jpg",
-    "static/media/banner-black.jpg": "/grungyplayer/static/media/banner-black.e06b6404cba6e84c4b72.jpg",
-    "static/media/jarofflies.jpg": "/grungyplayer/static/media/jarofflies.e2d44e4001487d9f4582.jpg",
-    "static/media/bebe.jpg": "/grungyplayer/static/media/bebe.ec70b35cfa2691d71e95.jpg",
-    "static/media/inu.jpg": "/grungyplayer/static/media/inu.1df56c7d526fa798b273.jpg",
-    "index.html": "/grungyplayer/index.html",
-    "main.6dc007f0.css.map": "/grungyplayer/static/css/main.6dc007f0.css.map",
-    "main.c968caa0.js.map": "/grungyplayer/static/js/main.c968caa0.js.map"
+    "main.css": "/KaninHase/grungyplayer/static/css/main.d0d4e547.css",
+    "main.js": "/KaninHase/grungyplayer/static/js/main.2eed13ce.js",
+    "static/media/Nirvana Come As You Are.mp3": "/KaninHase/grungyplayer/static/media/Nirvana Come As You Are.92ba7ffe2f858ab962ce.mp3",
+    "static/media/Alice In Chains Dirt.mp3": "/KaninHase/grungyplayer/static/media/Alice In Chains Dirt.5d339856057127b8f10c.mp3",
+    "static/media/Nirvana Aneurysm.mp3": "/KaninHase/grungyplayer/static/media/Nirvana Aneurysm.fb93a8d809ab67312649.mp3",
+    "static/media/Linkin Park My December.mp3": "/KaninHase/grungyplayer/static/media/Linkin Park My December.27bd603898ec2fc1cd8c.mp3",
+    "static/media/Alice In Chains Nutshell.mp3": "/KaninHase/grungyplayer/static/media/Alice In Chains Nutshell.3ced7955e53d09c0f9e6.mp3",
+    "static/media/Nirvana Serve The Servants.mp3": "/KaninHase/grungyplayer/static/media/Nirvana Serve The Servants.35e83fbc2cf4042b8e62.mp3",
+    "static/media/Alice In Chains Would.mp3": "/KaninHase/grungyplayer/static/media/Alice In Chains Would.77303b00a30ef4bf7f29.mp3",
+    "static/media/Nirvana Sappy.mp3": "/KaninHase/grungyplayer/static/media/Nirvana Sappy.ce70c90874ab28075c59.mp3",
+    "static/media/Linkin Park Pushing Me Away.mp3": "/KaninHase/grungyplayer/static/media/Linkin Park Pushing Me Away.f63c4a2756d52a930704.mp3",
+    "static/media/dirt.jpg": "/KaninHase/grungyplayer/static/media/dirt.daa93b9524812d77d66b.jpg",
+    "static/media/5r2b2x4efhr71.jpg": "/KaninHase/grungyplayer/static/media/5r2b2x4efhr71.4f7bfefe2086adf40a1c.jpg",
+    "static/media/1200x1200bb.jpg": "/KaninHase/grungyplayer/static/media/1200x1200bb.c3ca66b5aaf32584024e.jpg",
+    "static/media/banner-black.jpg": "/KaninHase/grungyplayer/static/media/banner-black.e06b6404cba6e84c4b72.jpg",
+    "static/media/jarofflies.jpg": "/KaninHase/grungyplayer/static/media/jarofflies.e2d44e4001487d9f4582.jpg",
+    "static/media/bebe.jpg": "/KaninHase/grungyplayer/static/media/bebe.ec70b35cfa2691d71e95.jpg",
+    "static/media/inu.jpg": "/KaninHase/grungyplayer/static/media/inu.1df56c7d526fa798b273.jpg",
+    "index.html": "/KaninHase/grungyplayer/index.html",
+    "main.d0d4e547.css.map": "/KaninHase/grungyplayer/static/css/main.d0d4e547.css.map",
+    "main.2eed13ce.js.map": "/KaninHase/grungyplayer/static/js/main.2eed13ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dc007f0.css",
-    "static/js/main.c968caa0.js"
+    "static/css/main.d0d4e547.css",
+    "static/js/main.2eed13ce.js"
   ]
 }
